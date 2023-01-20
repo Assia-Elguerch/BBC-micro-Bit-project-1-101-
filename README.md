@@ -1,4 +1,4 @@
-# BBC micro:bit 101
+# BBC micro:bit 101 🤖
 
 ## Description
 
@@ -52,6 +52,8 @@ L =   Image("97520:"
 ## Notes
 
 > The project is for the absolute beginners in order to master the functions 
+
+🟢 Demo
 
 ![image](Left.jpeg)
 
