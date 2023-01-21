@@ -2,7 +2,7 @@
 
 ## Description
 
-The project is created by BBC micro:bit, it detects the directions where is it! Left or right or non
+The project is created by BBC micro:bit, it detects the directions where is it! Left or right or none
 
 > if Left : the Lighting if LED are activated from the left 9 7 5 2 0 
 > if Right: the Lighting if LED are activated from the right 9 7 5 2 0 
